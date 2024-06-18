@@ -1,0 +1,2 @@
+# IP_2024_ExploreAI
+Integrated_Project_2024_EAI
